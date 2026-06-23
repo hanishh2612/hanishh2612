@@ -116,8 +116,8 @@ Here are the technologies, languages, and tools that I work with. Driven by curi
 
 ### 🤝 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="hanishmardiya026@gmail.com" target="_blank">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTysthdrFFEF5aANNeDzeT5lGl8OmL1-WRCjdC2DCw7O_VX89_BkYWMhKc&s=10" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/your-github-username" target="_blank">
